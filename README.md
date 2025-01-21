@@ -14,8 +14,8 @@ This roadmap ensures a step-by-step journey from revisiting the basics to master
 **Resources**:
 
 - [Tour of Go](https://go.dev/tour/): Quick overview of basic language features.
-- [Take your first steps with Go - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/go-first-steps/)
-- [Go by Example](https://gobyexample.com/)
+- [Take your first steps with Go - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/go-first-steps/): Learn the basic syntax and thought processes required to build simple programs using Go.
+- [Go by Example](https://gobyexample.com/): A hands-on introduction to Go using annotated example programs.
 - [Effective Go](https://go.dev/doc/effective_go): Additional tips and best practices.
 - [Gophercises](https://gophercises.com/): Practice exercises for beginner and intermediate levels.
 
@@ -112,7 +112,7 @@ This roadmap ensures a step-by-step journey from revisiting the basics to master
 - [AWS SDK for Go](https://aws.github.io/aws-sdk-go-v2/).
 - [Google Cloud SDK](https://cloud.google.com/go/docs).
 - [Azure for Go developers](https://learn.microsoft.com/en-us/azure/developer/go/).
-  [Azure SDK for Go](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go)
+  - [Azure SDK for Go](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go)
 
 ---
 
